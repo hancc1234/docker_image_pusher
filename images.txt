@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 xinjiawei1/emby_unlockd
 talebook/talebook
+cxfksword/douban-api-rs
