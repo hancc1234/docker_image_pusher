@@ -5,4 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 xinjiawei1/emby_unlockd
 talebook/talebook
-cxfksword/douban-api-rs
+ghcr.io/cxfksword/douban-api-rs
