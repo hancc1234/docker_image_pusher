@@ -7,3 +7,4 @@ xinjiawei1/emby_unlockd
 talebook/talebook
 ghcr.io/cxfksword/douban-api-rs
 stirlingtools/stirling-pdf
+binwiederhier/ntfy
