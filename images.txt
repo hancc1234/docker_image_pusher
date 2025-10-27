@@ -9,4 +9,4 @@ ghcr.io/cxfksword/douban-api-rs
 stirlingtools/stirling-pdf
 binwiederhier/ntfy
 joplin/server
-postgres
+postgres:16.2
