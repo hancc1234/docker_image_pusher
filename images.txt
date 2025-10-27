@@ -8,4 +8,4 @@ talebook/talebook
 ghcr.io/cxfksword/douban-api-rs
 stirlingtools/stirling-pdf
 binwiederhier/ntfy
-laurent22/joplin
+joplin/server
