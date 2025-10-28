@@ -8,5 +8,4 @@ talebook/talebook
 ghcr.io/cxfksword/douban-api-rs
 stirlingtools/stirling-pdf
 binwiederhier/ntfy
-joplin/server
-postgres:16.2
+halcyonazure/lsky-pro-docker
