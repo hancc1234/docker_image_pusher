@@ -9,3 +9,4 @@ ghcr.io/cxfksword/douban-api-rs
 stirlingtools/stirling-pdf
 binwiederhier/ntfy
 halcyonazure/lsky-pro-docker
+oldiy/chrome-novnc
